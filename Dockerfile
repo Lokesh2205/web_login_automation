@@ -1,5 +1,4 @@
 FROM ubuntu:latest
-RUN sudo su
 
 #MAINTAINER ybmsr <ybmadhu404@gmail.com>
 
